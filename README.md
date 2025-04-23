@@ -40,7 +40,7 @@ This implementation is completely built in PyTorch and requires no GPU to run.
 ## Installation
 
 ```
-git clone https://github.com/yourusername/Meta-RBFNet-PlusPlus.git
+git clone https://github.com/SiddharthaStoic/Meta-RBFNet-PlusPlus.git
 cd Meta-RBFNet-PlusPlus
 pip install -r requirements.txt
 ```
